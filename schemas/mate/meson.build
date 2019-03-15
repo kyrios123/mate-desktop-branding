@@ -9,6 +9,7 @@ mate_schemas = [
     'org.mate.panel.applet.clock.gschema.override',
     'org.mate.panel.menubar.gschema.override',
     'org.mate.NotificationDaemon.gschema.override',
+    'org.mate.power-manager.gschema.override',
     'com.solus-project.brisk-menu.gschema.override',
     'x.dm.slick-greeter.gschema.override',
 ]

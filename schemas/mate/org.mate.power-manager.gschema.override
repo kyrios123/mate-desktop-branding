@@ -1,0 +1,2 @@
+[org.mate.power-manager]
+action-sleep-type-battery='suspend'
