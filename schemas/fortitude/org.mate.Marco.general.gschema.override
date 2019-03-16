@@ -1,0 +1,4 @@
+[org.mate.Marco.general]
+compositing-manager=true
+theme='Plata-Noir'
+titlebar-font='Noto Sans Bold 9'
