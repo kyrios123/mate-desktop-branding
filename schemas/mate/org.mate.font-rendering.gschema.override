@@ -1,4 +1,4 @@
-[org.mate.desktop.font-rendering]
+[org.mate.font-rendering]
 antialiasing='rgba'
 hinting='slight'
 dpi=96.0

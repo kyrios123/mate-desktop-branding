@@ -1,6 +1,6 @@
 mate_schemas = [
-    'org.mate.desktop.background.gschema.override',
-    'org.mate.desktop.interface.gschema.override',
+    'org.mate.background.gschema.override',
+    'org.mate.interface.gschema.override',
     'org.mate.Marco.general.gschema.override',
     'x.dm.slick-greeter.gschema.override',
 ]
