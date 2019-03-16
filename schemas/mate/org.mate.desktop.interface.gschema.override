@@ -1,4 +1,4 @@
-[org.mate.interface]
+[org.mate.desktop.interface]
 gtk-theme='Arc-Darker'
 icon-theme='Arc'
 font-name='Clear Sans 10'
