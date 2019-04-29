@@ -1,4 +1,5 @@
 mate_schemas = [
+    'org.gnome.desktop.interface.gschema.override',
     'org.mate.background.gschema.override',
     'org.mate.font-rendering.gschema.override',
     'org.mate.interface.gschema.override',
