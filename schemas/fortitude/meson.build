@@ -4,7 +4,6 @@ mate_schemas = [
     'org.mate.background.gschema.override',
     'org.mate.interface.gschema.override',
     'org.mate.panel.toplevel.gschema.override',
-    'org.mate.panel.toplevel.background.gschema.override',
     'x.dm.slick-greeter.gschema.override',
 ]
 
