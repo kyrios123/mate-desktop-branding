@@ -4,6 +4,6 @@ This package is to be used for default configuration of elements within the MATE
 
 ## License
 
-Copyright © 2016-2019 Solus Project
+Copyright © 2016-2020 Solus Project
 
 GPL-2.0-only
